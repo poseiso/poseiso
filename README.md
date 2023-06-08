@@ -1,6 +1,5 @@
 Mentally questionable touhou fan
 
-![](https://posei.me/horse_going_hard.gif)
 
 
 <!--START_SECTION:waka-->
@@ -23,3 +22,6 @@ HTML           2 hrs 13 mins   -------------------------   00.69 %
 ```
 
 <!--END_SECTION:waka-->
+
+![](https://posei.me/horse_going_hard.gif)
+![](https://posei.me/horse_going_hard.gif)
