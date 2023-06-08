@@ -1,6 +1,6 @@
 Mentally questionable touhou fan
 
-![]([http://url/to/img.png](https://posei.me/horse_going_hard.gif))
+![](https://posei.me/horse_going_hard.gif)
 
 
 <!--START_SECTION:waka-->
