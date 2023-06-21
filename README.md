@@ -5,20 +5,20 @@ Mentally questionable touhou fan
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 18 June 2023
+From: 07 November 2022 - To: 20 June 2023
 
-Total Time: 372 hrs 13 mins
+Total Time: 385 hrs 35 mins
 
-TypeScript     147 hrs 59 mins >>>>>>>>>>---------------   39.76 %
-GDScript       82 hrs 16 mins  >>>>>>-------------------   22.11 %
-Dart           78 hrs 51 mins  >>>>>--------------------   21.19 %
-Markdown       16 hrs 9 mins   >------------------------   04.34 %
-Other          10 hrs 21 mins  >------------------------   02.78 %
-JavaScript     8 hrs 8 mins    >------------------------   02.19 %
-Rust           5 hrs 53 mins   -------------------------   01.58 %
-C++            3 hrs 55 mins   -------------------------   01.06 %
-YAML           2 hrs 44 mins   -------------------------   00.74 %
-HTML           2 hrs 15 mins   -------------------------   00.61 %
+TypeScript     152 hrs         >>>>>>>>>>---------------   39.42 %
+GDScript       88 hrs          >>>>>>-------------------   22.82 %
+Dart           82 hrs 7 mins   >>>>>--------------------   21.30 %
+Markdown       16 hrs 14 mins  >------------------------   04.21 %
+Other          10 hrs 22 mins  >------------------------   02.69 %
+JavaScript     8 hrs 8 mins    >------------------------   02.11 %
+Rust           5 hrs 53 mins   -------------------------   01.53 %
+C++            3 hrs 55 mins   -------------------------   01.02 %
+YAML           2 hrs 47 mins   -------------------------   00.72 %
+HTML           2 hrs 15 mins   -------------------------   00.59 %
 ```
 
 <!--END_SECTION:waka-->
