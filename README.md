@@ -5,7 +5,7 @@ Mentally questionable touhou fan
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 14 October 2023
+From: 07 November 2022 - To: 15 October 2023
 
 Total Time: 587 hrs 7 mins
 
