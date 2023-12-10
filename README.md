@@ -1,7 +1,3 @@
-Mentally questionable touhou fan
-
-
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -22,5 +18,3 @@ SQL                        6 hrs 11 mins   -------------------------   00.91 %
 ```
 
 <!--END_SECTION:waka-->
-
-![](https://cdn.discordapp.com/attachments/825577206696771664/1166420405674856468/win.gif?ex=654a6ca7&is=6537f7a7&hm=84f02d38afcaba0d0e8904ff04caaa8c281686a27d5cdea7403e065ad7b47f78&)
