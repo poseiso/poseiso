@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 24 April 2024
+From: 07 November 2022 - To: 25 April 2024
 
-Total Time: 897 hrs 52 mins
+Total Time: 902 hrs 23 mins
 
-TypeScript                 338 hrs 6 mins  >>>>>>>>>----------------   37.67 %
-Dart                       136 hrs 24 mins >>>>---------------------   15.20 %
-GDScript                   91 hrs 5 mins   >>>----------------------   10.15 %
-Rust                       80 hrs 12 mins  >>-----------------------   08.94 %
-Go                         43 hrs 10 mins  >------------------------   04.81 %
-JavaScript                 41 hrs 27 mins  >------------------------   04.62 %
-GDScript3                  36 hrs 23 mins  >------------------------   04.05 %
-Markdown                   32 hrs 1 min    >------------------------   03.57 %
-Other                      17 hrs 43 mins  -------------------------   01.98 %
-HTML                       17 hrs 5 mins   -------------------------   01.90 %
+TypeScript                 338 hrs 26 mins >>>>>>>>>----------------   37.52 %
+Dart                       136 hrs 24 mins >>>>---------------------   15.12 %
+GDScript                   91 hrs 5 mins   >>>----------------------   10.10 %
+Rust                       80 hrs 12 mins  >>-----------------------   08.89 %
+Go                         45 hrs 18 mins  >------------------------   05.02 %
+JavaScript                 41 hrs 28 mins  >------------------------   04.60 %
+GDScript3                  36 hrs 38 mins  >------------------------   04.06 %
+Markdown                   32 hrs 5 mins   >------------------------   03.56 %
+Other                      17 hrs 43 mins  -------------------------   01.97 %
+HTML                       17 hrs 5 mins   -------------------------   01.89 %
 ```
 
 <!--END_SECTION:waka-->
