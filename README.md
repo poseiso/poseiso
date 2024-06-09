@@ -1,3 +1,5 @@
+Wakatime Tracker Time
+
 <!--START_SECTION:waka-->
 
 ```txt
