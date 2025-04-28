@@ -7,6 +7,10 @@
 **Transitioning from Mobile Development to Graphics/Engine Programming**  
 _(Definitely not using Flutter as a wrapper for Vulkan FFI.)_
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
+![Still Learning](https://img.shields.io/badge/Still%20Learning-FFCC00?style=flat&logoColor=white)
+
 ---
 
 ## What I'm Up To
@@ -16,17 +20,11 @@ _(Definitely not using Flutter as a wrapper for Vulkan FFI.)_
 
 _(It's been difficult so far. But, I've survived Gradle.)_
 
-![cat cube](https://github.com/user-attachments/assets/54c92bc8-af3e-4bf1-b442-e889f1c01633)  
+  <img src="https://github.com/user-attachments/assets/54c92bc8-af3e-4bf1-b442-e889f1c01633" width="300" alt="cat cube" />
+
 ~~Yes, this one is OpenGL.~~  
 
 ---
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
-![Still Learning](https://img.shields.io/badge/Still%20Learning-FFCC00?style=flat&logoColor=white)
-
-</div>
 
 Wakatime Tracker Time
 
