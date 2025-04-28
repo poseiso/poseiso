@@ -1,3 +1,33 @@
+# Hi, my name Posei
+
+> Carving a path to distant places I've only dreamed of — one vertex at a time.
+
+`Senior Mobile Developer` | `Computer Science Student`  
+
+**Transitioning from Mobile Development to Graphics/Engine Programming**  
+_(Definitely not using Flutter as a wrapper for Vulkan FFI.)_
+
+---
+
+## What I'm Up To
+- Trying to love the mess that is C++
+- Burshing up on my nonexistent math skills
+- Making my own tiny Vulkan renderer
+
+_(It's been difficult so far. But, I've survived Gradle.)_
+
+![cat cube](https://github.com/user-attachments/assets/54c92bc8-af3e-4bf1-b442-e889f1c01633)  
+~~Yes, this one is OpenGL.~~  
+
+---
+<div align="center">
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
+![Still Learning](https://img.shields.io/badge/Still%20Learning-FFCC00?style=flat&logoColor=white)
+
+</div>
+
 Wakatime Tracker Time
 
 <!--START_SECTION:waka-->
