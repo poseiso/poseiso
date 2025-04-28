@@ -24,6 +24,11 @@ _(It's been difficult so far. But, I've survived Gradle.)_
 
 ~~Yes, this one is OpenGL.~~  
 
+### Do contact me, it's lonely on this path 
+
+**Email**: [contact@posei.me](mailto:contact@posei.me)  
+**Discord**: poseiso
+
 ---
 
 Wakatime Tracker Time
