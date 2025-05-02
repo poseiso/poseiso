@@ -36,19 +36,19 @@ Wakatime Tracker Time
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 29 April 2025
+From: 07 November 2022 - To: 01 May 2025
 
-Total Time: 1,878 hrs 25 mins
+Total Time: 1,883 hrs 14 mins
 
-Dart                       841 hrs 23 mins >>>>>>>>>>>--------------   44.80 %
-TypeScript                 412 hrs 27 mins >>>>>--------------------   21.96 %
-GDScript                   91 hrs 5 mins   >------------------------   04.85 %
-Rust                       83 hrs 59 mins  >------------------------   04.47 %
-JavaScript                 59 hrs 43 mins  >------------------------   03.18 %
-Markdown                   55 hrs 23 mins  >------------------------   02.95 %
-Go                         52 hrs 46 mins  >------------------------   02.81 %
+Dart                       841 hrs 35 mins >>>>>>>>>>>--------------   44.69 %
+TypeScript                 412 hrs 46 mins >>>>>--------------------   21.92 %
+GDScript                   91 hrs 5 mins   >------------------------   04.84 %
+Rust                       83 hrs 59 mins  >------------------------   04.46 %
+JavaScript                 59 hrs 44 mins  >------------------------   03.17 %
+Markdown                   57 hrs 4 mins   >------------------------   03.03 %
+Go                         52 hrs 46 mins  >------------------------   02.80 %
 GDScript3                  42 hrs 20 mins  >------------------------   02.25 %
-YAML                       41 hrs 11 mins  >------------------------   02.19 %
+YAML                       41 hrs 16 mins  >------------------------   02.19 %
 Other                      34 hrs 14 mins  -------------------------   01.82 %
 ```
 
