@@ -11,20 +11,9 @@ _(Definitely not using Flutter as a wrapper for Vulkan FFI.)_
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![Still Learning](https://img.shields.io/badge/Still%20Learning-FFCC00?style=flat&logoColor=white)
 
----
+  <img src="https://github.com/user-attachments/assets/54c92bc8-af3e-4bf1-b442-e889f1c01633" width="300" alt="cat cube opengl" />
 
-## What I'm Up To
-- Trying to love the mess that is C++
-- Burshing up on my nonexistent math skills
-- Making my own tiny Vulkan renderer
-
-_(It's been difficult so far. But, I've survived Gradle.)_
-
-  <img src="https://github.com/user-attachments/assets/54c92bc8-af3e-4bf1-b442-e889f1c01633" width="300" alt="cat cube" />
-
-~~Yes, this one is OpenGL.~~  
-
-### Do contact me, it's lonely on this path 
+### Do contact me
 
 **Email**: [contact@posei.me](mailto:contact@posei.me)  
 **Discord**: poseiso
