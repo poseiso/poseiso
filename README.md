@@ -4,7 +4,7 @@
 
 `Senior Mobile Developer` | `Computer Science Student`  
 
-**Transitioning from Mobile Development to Graphics/Engine Programming**  
+**Mobile Developer by trade, Graphics/Engine Programmer by chance?(?)**  
 _(Definitely not using Flutter as a wrapper for Vulkan FFI.)_
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
