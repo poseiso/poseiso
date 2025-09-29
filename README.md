@@ -1,5 +1,4 @@
 # Hi, my name Posei  
-`Sovereign of the Stars`  
 > Carving a path to distant places I've only dreamed of — one vertex at a time.  
 
 I build for the palm of your hand by daylight, and from the fabric of the stars by night.
