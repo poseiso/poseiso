@@ -17,7 +17,7 @@ Wakatime Tracker Time
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 24 December 2025
+From: 07 November 2022 - To: 25 December 2025
 
 Total Time: 2,310 hrs 51 mins
 
