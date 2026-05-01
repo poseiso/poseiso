@@ -17,20 +17,20 @@ Wakatime Tracker Time
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 28 April 2026
+From: 07 November 2022 - To: 29 April 2026
 
-Total Time: 2,433 hrs 55 mins
+Total Time: 2,438 hrs 29 mins
 
-Dart                               966 hrs 12 mins       >>>>>>>>>>---------------   39.70 %
-TypeScript                         568 hrs 1 min         >>>>>>-------------------   23.34 %
-GDScript3                          107 hrs 9 mins        >------------------------   04.40 %
-Markdown                           91 hrs 31 mins        >------------------------   03.76 %
+Dart                               966 hrs 12 mins       >>>>>>>>>>---------------   39.63 %
+TypeScript                         569 hrs 35 mins       >>>>>>-------------------   23.36 %
+GDScript3                          107 hrs 9 mins        >------------------------   04.39 %
+Markdown                           91 hrs 31 mins        >------------------------   03.75 %
 GDScript                           91 hrs 8 mins         >------------------------   03.74 %
-Rust                               84 hrs 9 mins         >------------------------   03.46 %
-JavaScript                         72 hrs 13 mins        >------------------------   02.97 %
-YAML                               64 hrs 27 mins        >------------------------   02.65 %
-Other                              54 hrs 10 mins        >------------------------   02.23 %
-Go                                 52 hrs 46 mins        >------------------------   02.17 %
+Rust                               84 hrs 9 mins         >------------------------   03.45 %
+JavaScript                         72 hrs 13 mins        >------------------------   02.96 %
+YAML                               64 hrs 27 mins        >------------------------   02.64 %
+Other                              55 hrs 3 mins         >------------------------   02.26 %
+Go                                 52 hrs 46 mins        >------------------------   02.16 %
 ```
 
 <!--END_SECTION:waka-->
