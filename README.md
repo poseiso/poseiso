@@ -17,20 +17,20 @@ Wakatime Tracker Time
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2022 - To: 21 July 2026
+From: 07 November 2022 - To: 23 July 2026
 
-Total Time: 2,562 hrs 39 mins
+Total Time: 2,579 hrs 14 mins
 
-Dart                               966 hrs 12 mins       >>>>>>>>>----------------   37.71 %
-TypeScript                         624 hrs 59 mins       >>>>>>-------------------   24.39 %
-GDScript3                          111 hrs 50 mins       >------------------------   04.36 %
-Markdown                           96 hrs 38 mins        >------------------------   03.77 %
-GDScript                           91 hrs 8 mins         >------------------------   03.56 %
-Rust                               84 hrs 17 mins        >------------------------   03.29 %
-JavaScript                         74 hrs 29 mins        >------------------------   02.91 %
-YAML                               71 hrs 20 mins        >------------------------   02.78 %
-Other                              64 hrs 53 mins        >------------------------   02.53 %
-JSON                               57 hrs 16 mins        >------------------------   02.24 %
+Dart                               966 hrs 12 mins       >>>>>>>>>----------------   37.46 %
+TypeScript                         634 hrs 27 mins       >>>>>>-------------------   24.60 %
+GDScript3                          111 hrs 53 mins       >------------------------   04.34 %
+Markdown                           98 hrs 18 mins        >------------------------   03.81 %
+GDScript                           91 hrs 8 mins         >------------------------   03.53 %
+Rust                               84 hrs 17 mins        >------------------------   03.27 %
+JavaScript                         75 hrs 9 mins         >------------------------   02.91 %
+YAML                               71 hrs 35 mins        >------------------------   02.78 %
+Other                              65 hrs 8 mins         >------------------------   02.53 %
+JSON                               57 hrs 42 mins        >------------------------   02.24 %
 ```
 
 <!--END_SECTION:waka-->
